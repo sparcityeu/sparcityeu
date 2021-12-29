@@ -6,10 +6,6 @@ The [SparCity project](http://sparcity.eu/ "The SparCity project web-page") aims
 
 Overall, SparCity is a forward-looking project with a significant contribution to building Europe’s strengths in the application of HPC and related software tools, in the adoption of low-energy processing technologies, and in the development of advanced software and services for its citizens.
 
-## Aim
-
-The SparCity project aims at creating a supercomputing framework that will provide efficient algorithms and coherent tools specifically designed for maximising the performance and energy efficiency of sparse computations on emerging HPC systems, while also opening up new usage areas for sparse computations in data analytics and deep learning.
-
 ## Objectives
 
 1. Develop a comprehensive application and data characterization mechanism and orchestrate an advanced and synergistic software optimization process, based on the state-of-the-art analytical and machine-learning-based performance and energy models;
