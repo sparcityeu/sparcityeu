@@ -1,5 +1,3 @@
-![SparCity Project Logo](logo.png)
-
 # SparCity
 
 The [SparCity project](http://sparcity.eu/ "The SparCity project web-page") aims at creating a supercomputing framework that will provide efficient algorithms and coherent tools specifically designed for maximising the performance and energy efficiency of sparse computations on emerging HPC systems, while also opening up new usage areas for sparse computations in data analytics and deep learning.
