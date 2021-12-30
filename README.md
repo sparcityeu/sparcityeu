@@ -20,4 +20,4 @@ Overall, SparCity is a forward-looking project with a significant contribution t
 
 ## Consortium
 
-![SparCity Project Consortium](consortium.png)
+![SparCity Project Consortium](consortium_logos.png)
